@@ -1,0 +1,23 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  min-height: 100vh;
+}
+
+body {
+  background-color: #eaeaea;
+}
+
+#canvas {
+  /*border: 1px solid #aaa; (not needed, fullscreen)*/
+}
+
+#errortext {
+  font-family: sans-serif;
+  size: 30px;
+  margin-left: 10px;
+}
+
+.div-render {
+  text-align: center;
+}
